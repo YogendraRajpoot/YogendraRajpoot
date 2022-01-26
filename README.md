@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YogendraRajpoot
 - 👀 I’m interested in (I don't think ,I should say it publicly 😅 )
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
+<!-- - //💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me yogendrarajpooten1030@gmail.com
 
 <!---
