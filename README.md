@@ -2,15 +2,27 @@
 <h3 align="center">I'm a Full Stack Web Developer with the ability to learn and collaborate in rapidly changing environments. Dedicated to developing and optimizing interactive, user-friendly and feature-rich websites.I enjoy using my obsessive attention to little detail. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.
 
 I love programming, writing, speaking and traveling.
+
 </h3>
 
-<p align= "center">
+<div align= "center">
+<a href="https://www.javascript.com/">
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
+</a>
+<a href="https://reactjs.org/">
 <img src="https://img.shields.io/badge/React-React-blue"/>
+</a>
+<a href="https://nodejs.org/en/">
 <img src="https://img.shields.io/badge/Node-node-green"/>
+</a>
+<a href="https://expressjs.com/">
 <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
+</a>
+<a href="https://www.mongodb.com/">
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
-</p>
+</a>
+
+</div>
 
 <div align="center">
 <img  alt="GIF" src="https://i.ibb.co/6ghjPhy/coding.gif" width="40%" height="40%" />
@@ -39,14 +51,14 @@ I love programming, writing, speaking and traveling.
 </span>
 
 ## Visitor
+
 ![](https://visitor-badge.glitch.me/badge?page_id=YogendraRajpoot.YogendraRajpoot)
+
 <!-- ## ❤ Views and Followers -->
 <!-- <a href="https://github.com/YogendraRajpoot/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=YogendraRajpoot">
 </a> -->
 <!-- <a href="https://github.com/YogendraRajpoot?tab=followers"><img src="https://img.shields.io/github/followers/YogendraRajpoot?label=Followers&style=social" alt="GitHub Badge"></a> -->
-
-
 
 ## 🚀 Languages and Tools:
 
