@@ -36,9 +36,9 @@ I love programming, writing, speaking and traveling.
   <p>🥅 2022 Goals : Learning new things and contribute more</p>
 </div>
 
-<!-- ## 🔗 Links
+## Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-YogendraRajpoot.vercel.app/) -->
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yogendrarajpoot.github.io/Portfolio/)
 
 ## Connect with me:
 
