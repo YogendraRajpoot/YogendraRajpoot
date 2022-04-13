@@ -24,11 +24,11 @@ I love programming, writing, speaking and traveling.
 
 </div>
 
-<div align="right">
+<!-- <div align="right">
 <img  alt="GIF" src="https://i.ibb.co/6ghjPhy/coding.gif" width="40%" height="40%" />
 
 </div>
-
+ -->
 <div align="left">
    <p> 🌱 I’m currently learning Full Stack Web Development at Masai School</p>
    <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
