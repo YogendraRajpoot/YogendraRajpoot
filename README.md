@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yogendra Rajpoot</h1>
-<h3 align="center">I'm a Full Stack Web Developer with the ability to learn and collaborate in rapidly changing environments. Dedicated to developing and optimizing interactive, user-friendly and feature-rich websites.I enjoy using my obsessive attention to little detail. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yogendra Rajpoot</h1>
+<h3 align="left">I'm a Full Stack Web Developer with the ability to learn and collaborate in rapidly changing environments. Dedicated to developing and optimizing interactive, user-friendly and feature-rich websites.I enjoy using my obsessive attention to little detail. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.
 
 I love programming, writing, speaking and traveling.
 
 </h3>
 
-<div align= "center">
+<div align= "left">
 <a href="https://www.javascript.com/">
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
 </a>
@@ -24,12 +24,12 @@ I love programming, writing, speaking and traveling.
 
 </div>
 
-<div align="center">
+<div align="right">
 <img  alt="GIF" src="https://i.ibb.co/6ghjPhy/coding.gif" width="40%" height="40%" />
 
 </div>
 
-<div align="center">
+<div align="left">
    <p> 🌱 I’m currently learning Full Stack Web Development at Masai School</p>
    <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
    <p> 📫 How to reach me yogendrarajpooten1030@gmail.com</p>
