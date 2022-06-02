@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yogendra Rajpoot</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">, I'm Yogendra Rajpoot</h1>
 <h3 align="left">I'm a Full Stack Web Developer with the ability to learn and collaborate in rapidly changing environments. Dedicated to developing and optimizing interactive, user-friendly and feature-rich websites.I enjoy using my obsessive attention to little detail. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.
 
 I love programming, writing, speaking and traveling.
