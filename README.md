@@ -34,7 +34,8 @@ I love programming, writing, speaking and traveling.
  -->
  
  
-<div align="left">         
+<div align="left">        
+         
    <p> 💼 I am a Software Developer in 101 Innovation, Bengaluru, India</p>
    <p> 🌱 I have completed Full Stack Web Development course from Masai School</p>
    <p> 💬 Ask me about React, JavaScript, Redux, React Native, Firebase, DS-Algo</p>
