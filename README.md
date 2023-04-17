@@ -32,16 +32,17 @@ I love programming, writing, speaking and traveling.
 
 </div>
  -->
-<div align="left">
-   <p> 🌱 I’m currently learning Full Stack Web Development at Masai School</p>
-   <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
+<div align="left">         
+   <p> 💼 I am a Software Developer in 101 Innovation, Bengaluru, India</p>
+   <p> 🌱 I have completed Full Stack Web Development course from Masai School</p>
+   <p> 💬 Ask me about React, JavaScript, Redux, React Native, Firebase, DS-Algo</p>
    <p> 📫 How to reach me yogendrarajpooten1030@gmail.com</p>
-  <p>🥅 2022 Goals : Learning new things and contribute more</p>
+  <p>🥅 2023 Goals : Learning new things and contribute more</p>
 </div>
 
 ## Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yogendrarajpoot.github.io/Portfolio/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yogendrarajpootportfoliolink.netlify.app/)
 
 ## Connect with me:
 
